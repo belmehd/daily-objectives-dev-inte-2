@@ -16,11 +16,11 @@
     * [X] git add
     * [X] git status
     * [X] git commit
-    * [ ] git pull
+    * [X] git pull
     * [X] git push
     * [ ] git clone
-    * [ ] git remote
-* [ ] Faire le parcours Git-it (Nodeschool.io)
+    * [X] git remote
+* [x] Faire le parcours Git-it (Nodeschool.io)
 * [X] Faire ses premiers commits sur les daily objectives
 * [X] Faire ses premiers pushs des daily-objectives sur son compte Github
 =======
