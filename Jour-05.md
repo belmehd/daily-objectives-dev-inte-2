@@ -7,22 +7,22 @@
 
 * [X] Créer son premier repo Github
 * [X] Faire ses première manipulations de versionning (init, push, add, commit, status, pull)
-* [ ] Découverte du Markdown : 
-  * [ ] Comprendre l'intérêt du Markdown
+* [x] Découverte du Markdown : 
+  * [x] Comprendre l'intérêt du Markdown
   * [ ] Découvrir les balises de bases : 
-    * [ ] Titres
-    * [ ] Images
-    * [ ] Listes
-    * [ ] Formatage de texte (italique, souligné, gras)
+    * [x] Titres
+    * [x] Images
+    * [x] Listes
+    * [x] Formatage de texte (italique, souligné, gras)
     * [ ] Code
     * [ ] Citations
     * [ ] Tableaux
-    * [ ] Liens
+    * [x] Liens
   * [ ] Faire le parcours "how-to-markdown" (Nodeschool.io)
-* [ ] Comprendre l'intérêt des raccourcis clavier
-* [ ] Découverte des raccourcis clavier de son système (Windows, Linux, Mac) : 
-  * [ ] Navigateur (fenêtres, onglets, navigation, etc …)
-  * [ ] Terminal (fenêtres, onglets, commandes)
+* [x] Comprendre l'intérêt des raccourcis clavier
+* [x] Découverte des raccourcis clavier de son système (Windows, Linux, Mac) : 
+  * [x] Navigateur (fenêtres, onglets, navigation, etc …)
+  * [x] Terminal (fenêtres, onglets, commandes)
 * [ ] Commencer la rédaction en Markdown de ses cheat sheets dans un repo créé pour l'occasion
 
 
