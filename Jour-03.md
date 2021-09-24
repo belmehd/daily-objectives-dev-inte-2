@@ -16,6 +16,6 @@
 * [X] Choix de son éditeur, configuration et customisation
 * [X] Choix / installation d'un terminal (Linux, Mac ou Windows)
 * [X] Découverte de VS Code
-* [X] Comprendre le web (Openclassrooms)
+* [X] Comprendre le web (Openclassrooms).
 =======
 

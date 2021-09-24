@@ -17,4 +17,4 @@
 
   * [ ] Installation navigateur (Developper Edition)
   * [ ] Création et configuration Mail pro 
-  * [ ] Création et configuration Twitter pro 
+  * [ ] Création et configuration Twitter pro .
